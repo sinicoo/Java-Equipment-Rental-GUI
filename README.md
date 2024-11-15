@@ -4,6 +4,8 @@
 
 ## Project Overview
 
+**Object-Oriented Project**
+
 The Equipment Rental System is a Java-based application built using `javax.swing` for a graphical interface, developed in BlueJ. This program helps users rent, return, and manage equipment with an intuitive, user-friendly interface. It is ideal for small businesses or organizations that need a simple solution to handle equipment rentals efficiently.
 
 ## Features
