@@ -15,10 +15,10 @@ The Equipment Rental System is a Java-based application built using `javax.swing
 ## Screenshots
 
 ### Main Menu
-![Main Menu](images/equip1.png)
+![Main Menu](images/equip1.PNG)
 
 ### Equipment List
-![Equipment List](images/equip2.png)
+![Equipment List](images/equip2.PNG)
 
 
 ## Tech Stack
