@@ -28,7 +28,6 @@ The Equipment Rental System is a Java-based application built using `javax.swing
 - **Language**: Java
 - **IDE**: BlueJ
 - **GUI Library**: `javax.swing` for building the user interface
-- **File Handling**: Uses text files (or other simple storage) for persisting data
 
 ## Members
 
